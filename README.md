@@ -79,3 +79,5 @@ Attendees do not need to be experts in or have experience using any of the techn
 [Xray Documentation](https://www.jfrog.com/confluence/display/JFROG/Xray+Security+and+Compliance)
 
 [Pipelines Documentation](https://www.jfrog.com/confluence/display/JFROG/Pipelines+Developer+Guide)
+
+>>> This change is only to trigger the pipeline
